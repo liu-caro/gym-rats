@@ -1,4 +1,6 @@
 # Gym Rats
+https://liu-caro.github.io/gym-rats/home.html
+
 A website that helps you find gym buddies based on their vicinity to motivate people with busy lives to stay committed to going to the gym. Ideally, would be able to implement compatibility in workout goals, gender preferences, and schedule availability.
 
 Project created for first hackathon ever attended. 
